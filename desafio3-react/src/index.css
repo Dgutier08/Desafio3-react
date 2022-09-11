@@ -24,18 +24,3 @@ code {
   color: white;
 }
 
-.user{
-  padding: 10px 10px;
-  margin: 0px 10px;
-  min-height: 20vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.user input{
-  width: 100%;
-  padding: 6px;
-  border: solid 1px grey;
-  border-radius: 4px;
-}
