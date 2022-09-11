@@ -1,6 +1,5 @@
 import Button from "react-bootstrap/Button";
 import Header from "./header";
-//import Button from "./button";
 import ListaColaboradores from "./ListaColaboradores";
 import dataColaboradores from "./dataColaboradores.json";
 import {useState} from "react";
